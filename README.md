@@ -7,7 +7,7 @@
 <h4 dir="rtl"> ابتدا سورس را کلون کنید:</h4>
 <h6>(کد زیر را در ترمینال وارد کنید👇)</h6>
 <pre>
-<span>git clone https://github.com/BibakBangTeam/inline.git</span>
+<span>git clone https://github.com/ariasezar/inline.git</span>
 </pre>
 <h4 dir="rtl">بعد از کلون کردن به فایل bot.lua موجود در پوشه bot بروید
 در خط ۱و۲و۹ بجای username یوزر سرور خودرا قرار دهید
